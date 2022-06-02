@@ -1,16 +1,11 @@
-### Hi there 👋
+### zeroannnn👋
+- 👋 Hi~I'm zeroannnn~~
+- 🔭 I’m currently working on senior high school's chemistry.
+- 🌱 I’m currently learning web programming really hard.
+- 🤔 I’m looking forward to have sup in my summer vacation.
+- 💬 Ask me about question if you want.
+- 📫 How to reach me: aaaanching@gmail.com
+- <3 I'm really looking forward to be friends with you
+- 😄 Pronouns: I am crazy just like my roomate
+- ⚡ some points that might make you surprise will be on my personal instagram account
 
-<!--
-**zeroannnn/zeroannnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
