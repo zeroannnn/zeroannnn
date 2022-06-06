@@ -6,6 +6,5 @@
 - 💬 Ask me about question if you want.
 - 📫 How to reach me: aaaanching@gmail.com
 - <3 I'm really looking forward to be friends with you
-- 😄 Pronouns: I am crazy just like my roomate
-- ⚡ some points that might make you surprise will be on my personal instagram account
+
 
