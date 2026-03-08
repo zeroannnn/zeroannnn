@@ -3,7 +3,7 @@
 ## 💡 About Me
 - 🎓  Graduate Student @ **National Tsing Hua University (NTHU), Taiwan**  
 - 💻  Major: **Computer Science** — focusing on **Evolutionary Computation & Optimization**  
-- 📖  Recently learning and exploring: **Data Mining, Natural Language Processing, Evolutionary Computation, and FPGA**  
+- 📖  Recently learning and exploring: something related to **Cloud**  
 - ✨  I enjoy building systems that connect **theory** with **real-world applications**  
 
 ## 🔍 You can also find me at ...
